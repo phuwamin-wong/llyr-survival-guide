@@ -105,3 +105,33 @@
 * Pipe leaking: Aorta --> Ruptured AAA
 * Pipe clogged: DVT --> screening DVT
 
+## Initial Management
+
+### Cardiogenic shock
+
+* มองหา Precipitating causes of Heart failure เสมอ \*\*CHAMPIT\*\*
+* แยกว่าเป็น Wet Warm หรือ Wet Cold
+  * Wet warm (พวกนี้ BP มักจะไม่ drop)
+    * Diuretics
+  * Wet cold (พวกนี้ BP จะ drop เยอะ)
+    * SBP < 90 mmHg → Inotrope + diuretics
+    * SBP < 90 mmHg → Diuretics
+  * Cold dry
+    * Challenge volume + inotrope/vasopressor
+
+### Hypovolemic shock
+
+* Load Isotonic crystalloid solutions: NSS, Acetated Ringer's solution, Lactated Ringer's solution
+* ใช้วิธีการประมาณ ครั้งละ 300-500 mL
+* หลังจากนั้นประเมินเป็นระยะว่า fluid responsive อยู่หรือไม่
+  * หากให้ volume ไปแล้วไม่ดีขึ้น หรือ volume พอแล้วแต่ BP drop อยู่ → มี shock อื่นร่วมด้วย ให้ไปหา shock อื่น
+* Blood loss → เตรียม Blood component
+
+### Distributive shock
+
+* รักษาตามสาเหตุ
+  * Septic shock:
+    * Load isotonic crystalloid maximum 30 mL/kg
+    * พิจารณา Inotropes (1st line → Norepinephrine)
+    * Broad spectrum empirical antibiotics
+
