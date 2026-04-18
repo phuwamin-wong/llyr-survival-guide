@@ -1,5 +1,6 @@
 ---
 description: ภูวมินทร์ วงค์เมาะ 102
+icon: face-anguished
 ---
 
 # Acute Chest Pain
@@ -16,7 +17,7 @@ description: ภูวมินทร์ วงค์เมาะ 102
 * Onset/Duration
 * มีเหนื่อย หายใจเร็ว desaturation ร่วมด้วยหรือไม่
 
-## Patient Evaluation / สิ่งที่ \*\*ต้องทำ\*\* เมื่อเจอภาวะนี้
+## Patient Evaluation
 
 #### Exclude life threatening condition
 

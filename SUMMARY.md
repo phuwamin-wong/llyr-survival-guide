@@ -12,3 +12,6 @@
   * [Hypotension](internal-medicine/cardiology/hypotension.md)
   * [Palpitation](internal-medicine/cardiology/palpitation.md)
   * [Tachycardia](internal-medicine/cardiology/tachycardia.md)
+* [Respiratory System](internal-medicine/respiratory-system/README.md)
+  * [Acute Dyspnea - Initial management and Resuscitation](internal-medicine/respiratory-system/acute-dyspnea-initial-management-and-resuscitation.md)
+  * [Acute Dyspnea - Approach to Specific Causes](internal-medicine/respiratory-system/acute-dyspnea-approach-to-specific-causes.md)

@@ -1,5 +1,6 @@
 ---
 description: ภูวมินทร์ วงค์เมาะ 102
+icon: heart-circle-xmark
 ---
 
 # Cardiac Arrest

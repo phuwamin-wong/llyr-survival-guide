@@ -1,5 +1,6 @@
 ---
 description: ภูวมินทร์ วงค์เมาะ 102
+icon: face-tongue-sweat
 ---
 
 # Tachycardia

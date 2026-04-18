@@ -1,3 +1,7 @@
+---
+icon: wave-pulse
+---
+
 # Palpitation
 
 ## Definition
