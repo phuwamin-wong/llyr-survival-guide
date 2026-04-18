@@ -1,3 +1,7 @@
+---
+icon: heart
+---
+
 # Cardiology
 
 {% content-ref url="acute-chest-pain.md" %}
