@@ -26,3 +26,6 @@
   * [Pediatrics Bradycardia](pediatrics/pediatrics-advance-life-support/pediatrics-bradycardia.md)
   * [Pediatrics Tachycardia](pediatrics/pediatrics-advance-life-support/pediatrics-tachycardia.md)
 * [Neonatal Resuscitation](pediatrics/neonatal-resuscitation.md)
+* [Standing Order Normal Newborn](pediatrics/standing-order-normal-newborn.md)
+* [Neonatal Jaundice](pediatrics/neonatal-jaundice.md)
+* [Dyspnea in the Newborn](pediatrics/dyspnea-in-the-newborn.md)
