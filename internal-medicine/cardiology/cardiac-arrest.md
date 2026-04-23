@@ -23,4 +23,4 @@ icon: heart-circle-xmark
   * 5T: Tampoande, Thrombosis pulmonary (PE), Thrombosis coronary (MI), Toxins, Tension pneumonthorax
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

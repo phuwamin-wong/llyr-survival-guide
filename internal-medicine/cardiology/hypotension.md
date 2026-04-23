@@ -42,6 +42,16 @@ icon: tank-water
 * หาก Controlled ventilation → Collapsibility index
 * \*\*ทั้งนี้ ในบางรายที่หายใจเป็น support mode (PSV, Spont) ให้ดูว่าผู้ป่วย เมื่อหายใจเข้าแล้ว IVC เต่งหรือแฟ่บ หากเต่งขึ้น ให้ใช้ Distensibility index แต่หากแฟ่บลง ให้ใช้ Collapsibility index
 
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+Collapsed IVC
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+Distended IVC
+
 ### Fluid challenge test
 
 {% hint style="info" %}
@@ -80,8 +90,18 @@ icon: tank-water
 ใช้ Point-of-care echocardiogram เพื่อตอบ 3 คำถาม
 
 * Pericardial effusion
-* LV contractility
-* RV straining
+
+{% embed url="https://drive.google.com/file/d/1kYD3xt6FXb-ZCJeZ3WsQpYQiS2rgsKYg/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1hOAtNW_lYz5paezfOCkxbq273dudGG7R/view?usp=sharing" %}
+
+* LV contractility --> fair LVEF (EF \~50%)
+
+{% embed url="https://drive.google.com/file/d/1S3-wsMmJbfdrYw5HpWEycIQIhmcD1CDD/view?usp=sharing" %}
+
+* LVEF (hyperdynamic LV) --> suggest hypovolemia / high cardiac output needs such as sepsis
+
+{% embed url="https://drive.google.com/file/d/1-taA9cwzmU37bXkImBxycJ3uXnFt02uP/view?usp=sharing" %}
 
 ### Tank
 
@@ -98,7 +118,10 @@ icon: tank-water
 #### Is tank overloading?
 
 * Lung B profile
-* Pleural effusion
+
+{% embed url="https://drive.google.com/file/d/1g2AtNLsuMkvchczlcLpMN0aT-9oUwXMG/view?usp=sharing" %}
+
+* Pleural Effusion
 
 #### Is tank compromised?
 

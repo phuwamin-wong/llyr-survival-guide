@@ -28,6 +28,8 @@ Ideal body weight:
 
 ### Pressure-controlled Ventilation (PCV หรือ PC-CMV)
 
+<figure><img src="../../.gitbook/assets/PCV mode illustration.drawio.png" alt=""><figcaption></figcaption></figure>
+
 * หลักการ: กำหนด Pressure คงที่ในทุก breath ปล่อยให้ volume และ flow แปรผันตาม compliance ของปอด
 * Indication
   * ผู้ป่วยที่ต้องการ Full support ได้แก่ ไม่มี Respiratory effort ต้องการลด work of breathing ต้องการควบคุม pH P<sub>a</sub>CO<sup><sub>2<sub></sup>
@@ -39,20 +41,21 @@ Ideal body weight:
   * Ti (inspiratory time) หรือ I:E Ratio: ระยะเวลาที่หายใจเข้า
   * PEEP (Positive end-expiratory pressure): แรงดันที่ค้างในปอดหลังหายใจออก
   * RR: อัตราการหายใจ
-  * FiO2: ร้อยละของ O<sub>2</sub>
+  * FiO<sub>2</sub>: ร้อยละของ O<sub>2</sub>
   * Trigger กรณีที่ผู้ป่วยดึงเครื่องเองถึงค่าที่ตั้งไว้ ให้เครื่องตี Setting ให้
 * **Default setting**
-  * Pi 15 cmH2O
-  * PEEP 5 cmH2O
-  * FiO2 เริ่มต้น 1.0 ทันทีหลังใส่ท่อ หลังจากนั้นค่อย ๆ ลดให้ได้ โดยใช้ FiO2 ต่ำที่สุดที่ทำให้ได้ SpO2 ≥ 94% (โดยทั่วไปตั้ง FiO2  0.4)
+  * Pi 15 cmH<sub>2</sub>O
+  * PEEP 5 cmH<sub>2</sub>O
+  * FiO<sub>2</sub> เริ่มต้น 1.0 ทันทีหลังใส่ท่อ หลังจากนั้นค่อย ๆ ลดให้ได้ โดยใช้ FiO<sub>2</sub> ต่ำที่สุดที่ทำให้ได้ SpO<sub>2</sub> ≥ 94% (โดยทั่วไปตั้ง FiO<sub>2</sub> 0.4)
+*
 * **Monitor**
   * ให้ได้ TV 6-8 cc/kg of ideal body weight
   * PIP ต้องไม่เกิน 30 cmH<sub>2</sub>O
   * V/S: RR จริงของผู้ป่วย, SpO2
 
-<figure><img src="../../.gitbook/assets/PCV mode illustration.drawio.png" alt=""><figcaption></figcaption></figure>
-
 ### Volume-controlled Ventilation (VCV หรือ CMV)
+
+<figure><img src="../../.gitbook/assets/VCV.drawio(2).png" alt=""><figcaption></figcaption></figure>
 
 * หลักการ: กำหนด Volume คงที่ (Fix volume and flow) โดยปล่อยให้ pressure แปรผันตาม compliance ของปอด
 * **Parameter to set**
@@ -71,9 +74,9 @@ Ideal body weight:
     * V/S: RR, SpO2
     * PIP ต้องน้อยกว่า 35 cmH<sub>2</sub>O
 
-<figure><img src="../../.gitbook/assets/VCV.drawio(2).png" alt=""><figcaption></figcaption></figure>
-
 ### Pressure Support Ventilation (PSV หรือ Spont.)
+
+<figure><img src="../../.gitbook/assets/PSV.drawio(1).png" alt=""><figcaption></figcaption></figure>
 
 * หลักการ: โหมดสำหรับเตรียม Wean หรือคนไข้หายใจเองได้ดีแล้ว ผู้ป่วยเป็นคนออกแรง Trigger เครื่องเองทุกครั้ง (ไม่มีการบังคับหายใจ)
 * **Parameters to Set**
@@ -86,8 +89,6 @@ Ideal body weight:
     * RR สำคัญมาก เนื่องจากเราไม่ได้ตั้ง RR ต้องดูว่าผู้ป่วยหายใจเองเร็วเกินไปหรือไม่ เช่น มี apnea หรือไม่ หรือ หอบเหนื่อย หรือไม่
     * Tidal volume ควรได้ตาม Targeted tidal volume (6-8 mL/kg IBW)
     * V/S SpO2 RR
-
-    <figure><img src="../../.gitbook/assets/PSV.drawio(1).png" alt=""><figcaption></figcaption></figure>
 
 
 

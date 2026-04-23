@@ -17,7 +17,7 @@
 
 **Vital Signs:** ค่าปกติแตกต่างตามช่วงอายุ แนะนำให้เปิดตารางอ้างอิงเสมอ (เฝ้าระวัง BP, HR, RR)
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (10).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Tips and Tricks

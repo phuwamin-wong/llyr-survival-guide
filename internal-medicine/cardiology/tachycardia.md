@@ -45,7 +45,7 @@ icon: face-tongue-sweat
   * Hypoxia
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 หากมีข้อใดข้อหนึ่ง จัดว่าเป็น unstable tachycardia ให้ดำเนินการ synchronized cardioversion
 
@@ -63,5 +63,5 @@ icon: face-tongue-sweat
   * Stable: MgSO4 2 g IV drip in 15 mins (การ push เร็วในคนไข้ stable อาจทำให้ severe hypotension ได้)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 

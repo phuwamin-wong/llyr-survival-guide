@@ -18,6 +18,13 @@
   * [ฺBasic Mechanical Ventilation](internal-medicine/respiratory-system/basic-mechanical-ventilation.md)
   * [Massive Hemoptysis](internal-medicine/respiratory-system/massive-hemoptysis.md)
   * [Weaning, Deliberating from Ventilators and Extubation Evaluation](internal-medicine/respiratory-system/weaning-deliberating-from-ventilators-and-extubation-evaluation.md)
+* [Infectious Disease](internal-medicine/infectious-disease/README.md)
+  * [Fever](internal-medicine/infectious-disease/fever.md)
+* [Nephrology](internal-medicine/nephrology/README.md)
+  * [Oliguria, Anuria, and Acute Kidney Injury](internal-medicine/nephrology/oliguria-anuria-and-acute-kidney-injury.md)
+  * [Polyuria](internal-medicine/nephrology/polyuria.md)
+  * [Hyponatremia](internal-medicine/nephrology/hyponatremia.md)
+  * [Hypokalemia](internal-medicine/nephrology/hypokalemia.md)
 
 ## Pediatrics
 
@@ -29,3 +36,4 @@
 * [Standing Order Normal Newborn](pediatrics/standing-order-normal-newborn.md)
 * [Neonatal Jaundice](pediatrics/neonatal-jaundice.md)
 * [Dyspnea in the Newborn](pediatrics/dyspnea-in-the-newborn.md)
+* [Cyanosis and Desaturation](pediatrics/cyanosis-and-desaturation.md)
