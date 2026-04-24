@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Med Llyr Survival Guide](README.md)
-* [Common Drugs](common-drugs.md)
+* [Frequently used Antimicrobials](frequently-used-antimicrobials.md)
+* [Frequently used Drugs](common-drugs.md)
 
 ## Internal Medicine
 

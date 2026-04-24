@@ -1,10 +1,12 @@
-# Common Drugs
+---
+icon: prescription-bottle-medical
+---
 
-## Common Drugs
+# Frequently used Drugs
 
-## 💊 Common Drug Use (A-Z)
 
-> ⚠️ **Disclaimer:** This list includes commonly used drug names and typical dosages. \[cite\_start]Clinical application should be guided by individual patient circumstances, conditions, underlying diseases, and clinical judgment.
+
+> ⚠️ **Disclaimer:** This list includes commonly used drug names and typical dosages. Clinical application should be guided by individual patient circumstances, conditions, underlying diseases, and clinical judgment.
 
 ### A
 
