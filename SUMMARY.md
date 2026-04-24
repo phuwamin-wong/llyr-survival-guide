@@ -49,18 +49,16 @@
 
 ## Obstetrics and Gynecology
 
-***
-
-* [Intrapartum fever](intrapartum-fever.md)
-* [Preterm Premature Rupture of Membrane and Premature Rupture of Membrane (PPROM, PROM)](preterm-premature-rupture-of-membrane-and-premature-rupture-of-membrane-pprom-prom.md)
-* [Pregnancy-induced Hypertension](pregnancy-induced-hypertension.md)
-* [Preterm Labour](preterm-labour.md)
-* [Abnormal Cervical Progression](abnormal-cervical-progression.md)
-* [Cervical Progression (Fully)](cervical-progression-fully.md)
-* [Shoulder Dystocia](shoulder-dystocia.md)
-* [Episiotomy Wound Care](episiotomy-wound-care.md)
-* [Post-ND round](post-nd-round.md)
-* [Post C/S round](post-c-s-round.md)
-* [EFM category and interpretation](efm-category-and-interpretation.md)
-* [Pelvic Pain](pelvic-pain.md)
-* [Abnormal Discharge](abnormal-discharge.md)
+* [Intrapartum fever](obstetrics-and-gynecology/intrapartum-fever.md)
+* [Preterm Premature Rupture of Membrane and Premature Rupture of Membrane (PPROM, PROM)](obstetrics-and-gynecology/preterm-premature-rupture-of-membrane-and-premature-rupture-of-membrane-pprom-prom.md)
+* [Pregnancy-induced Hypertension](obstetrics-and-gynecology/pregnancy-induced-hypertension.md)
+* [Preterm Labour](obstetrics-and-gynecology/preterm-labour.md)
+* [Abnormal Cervical Progression](obstetrics-and-gynecology/abnormal-cervical-progression.md)
+* [Cervical Progression (Fully)](obstetrics-and-gynecology/cervical-progression-fully.md)
+* [Shoulder Dystocia](obstetrics-and-gynecology/shoulder-dystocia/README.md)
+  * [Post C/S round](obstetrics-and-gynecology/shoulder-dystocia/post-c-s-round.md)
+* [Episiotomy Wound Care](obstetrics-and-gynecology/episiotomy-wound-care.md)
+* [Post-ND round](obstetrics-and-gynecology/post-nd-round.md)
+* [EFM category and interpretation](obstetrics-and-gynecology/efm-category-and-interpretation.md)
+* [Pelvic Pain](obstetrics-and-gynecology/pelvic-pain.md)
+* [Abnormal Discharge](obstetrics-and-gynecology/abnormal-discharge.md)
