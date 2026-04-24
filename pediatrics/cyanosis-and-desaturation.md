@@ -77,7 +77,7 @@ Deoxyhemoglobin > 5 g/dL (SpO2 < 95%) มีกลไกการเกิดจ
 Gold standard for differentiating **Persistent Pulmonary Hypertension of the Newborn** (PPHN) ออกจาก Cyanotic CHD คือ **Echocardiogram**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/unknown (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Standing Order (example)
 
@@ -89,7 +89,7 @@ Gold standard for differentiating **Persistent Pulmonary Hypertension of the New
 Note: Sepsis workup if clinically indicated, consider NPO in unstable patients
 {% endhint %}
 
-<table><thead><tr><th width="249">NOTE</th><th>ORDER FOR ONE DAY</th><th>ORDER FOR CONTINUATION</th></tr></thead><tbody><tr><td><p>10/04/2569</p><p>15.50 น.<br></p><p>DOL 0 -> 1</p><p>BBW 3000 gm</p><p></p><p># Term male/female newborn, GA 38 weeks/U/S, Elective C/S due to previous C/S, Apgar 9-10-10, BBW 3000 gm, AGA</p><p><br><br></p><p>Notify desaturation 90% for นานเท่าไหร่</p></td><td><p></p><ul><li>On CPAP PEEP 5 FiO2 0.21</li><li>Adjust PEEP 6 FiO2 0.4</li><li>On ETT No. 3.5 mark 8.5</li><li>Transfer to NICU</li><li><mark style="background-color:yellow;">Hct, DTX stat</mark></li><li><mark style="background-color:yellow;">Elyte, ABG</mark></li><li><mark style="background-color:yellow;">CXR (portable)</mark> </li><li><mark style="background-color:yellow;">EKG 12 leads</mark></li></ul></td><td><p></p><p></p><ul><li><mark style="background-color:yellow;">Diet as one day order</mark></li><li><mark style="background-color:yellow;">Record V/S, I/O as ml</mark></li><li><mark style="background-color:yellow;">BW OD</mark></li><li><mark style="background-color:yellow;">Length, OFC weekly</mark></li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="249">NOTE</th><th>ORDER FOR ONE DAY</th><th>ORDER FOR CONTINUATION</th></tr></thead><tbody><tr><td><p>10/04/2569</p><p>15.50 น.<br></p><p>DOL 0 -> 1</p><p>BBW 3000 gm</p><p># Term male/female newborn, GA 38 weeks/U/S, Elective C/S due to previous C/S, Apgar 9-10-10, BBW 3000 gm, AGA</p><p><br><br></p><p>Notify desaturation 90% for นานเท่าไหร่</p></td><td><ul><li>On CPAP PEEP 5 FiO2 0.21</li><li>Adjust PEEP 6 FiO2 0.4</li><li>On ETT No. 3.5 mark 8.5</li><li>Transfer to NICU</li><li><mark style="background-color:yellow;">Hct, DTX stat</mark></li><li><mark style="background-color:yellow;">Elyte, ABG</mark></li><li><mark style="background-color:yellow;">CXR (portable)</mark></li><li><mark style="background-color:yellow;">EKG 12 leads</mark></li></ul></td><td><ul><li><mark style="background-color:yellow;">Diet as one day order</mark></li><li><mark style="background-color:yellow;">Record V/S, I/O as ml</mark></li><li><mark style="background-color:yellow;">BW OD</mark></li><li><mark style="background-color:yellow;">Length, OFC weekly</mark></li></ul></td></tr></tbody></table>
 
 **Progress Note**
 
@@ -97,7 +97,7 @@ Note: Sepsis workup if clinically indicated, consider NPO in unstable patients
 
 **Notify** desaturation 90% for นานเท่าไหร่
 
-**S:** ทารกหายใจเร็ว ไม่เขียว on O2 cannular 2 LPM&#x20;
+**S:** ทารกหายใจเร็ว ไม่เขียว on O2 cannular 2 LPM
 
 **O:** V/S สำคัญมาก: BT 37.2, HR 160 bpm, RR 70/min, SpO2 85-90%
 

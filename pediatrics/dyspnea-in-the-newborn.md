@@ -11,7 +11,7 @@ Definition
 * DDx Dyspnea in NB ตามระบบ
   * Pulmonary, Neuro, Cardio, Metabolic, others
 * Common Causes
-  * Respiratory distress syndrome (RDS)&#x20;
+  * Respiratory distress syndrome (RDS)
   * Transient Tachypnea of the Newborn (TTN)
   * Meconium aspiration syndrome (MAS)
   * Neonatal pneumonia
@@ -42,7 +42,7 @@ Definition
 
 * นำ slide มาอังตรงรูจมูกทั้ง 2 ข้าง เพื่อดูว่ามี airflow obstruction ซึ่งอาจเป็นสาเหตุของ dyspnea หรือไม่
 
-<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Investigation
 
@@ -81,7 +81,7 @@ Definition
 {% endcolumn %}
 
 {% column %}
-![](<../.gitbook/assets/unknown (1).png>)
+![](<../.gitbook/assets/unknown (1) (1).png>)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -98,7 +98,7 @@ Definition
 {% endcolumn %}
 
 {% column %}
-![](<../.gitbook/assets/unknown (5).png>)
+![](<../.gitbook/assets/unknown (2) (1).png>)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -112,7 +112,7 @@ Definition
 {% endcolumn %}
 
 {% column %}
-![](<../.gitbook/assets/unknown (6).png>)
+![](<../.gitbook/assets/unknown (4).png>)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -138,7 +138,7 @@ Definition
 ขึ้นกับ Diagnosis ที่คิดถึง
 {% endhint %}
 
-<table><thead><tr><th width="249">NOTE</th><th>ORDER FOR ONE DAY</th><th>ORDER FOR CONTINUATION</th></tr></thead><tbody><tr><td><p>10/04/2569</p><p>15.50 น.<br></p><p>DOL 0 -> 1</p><p>BBW 3000 gm</p><p></p><p># Term male/female newborn, GA 38 weeks/U/S, Elective C/S due to previous C/S, Apgar 9-10-10, BBW 3000 gm, AGA</p><p># Thin meconium (ตอนคลอด suction 2 สาย)</p><p><br></p><p>Notify หายใจเร็ว 90-100 ครั้ง/min</p></td><td><p></p><ul><li>CXR portable stat</li><li>On cannula 1 LPM (FiO2 1.0, Effective FiO2 0.47), keep SpO2 >=95%</li><li>CBC c PBS, CRP stat and 06.00 น. 11/04/2569 at 20 hr</li><li>H/C x II</li></ul></td><td><p></p><ul><li>Ampicillin 300 mg IV q 8 hr (100 MKDose)</li><li>Gentamicin 12 mg + 5%DW 3 ml IV drip in 30 mins q 24 hr (4 MKDose)</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="249">NOTE</th><th>ORDER FOR ONE DAY</th><th>ORDER FOR CONTINUATION</th></tr></thead><tbody><tr><td><p>10/04/2569</p><p>15.50 น.<br></p><p>DOL 0 -> 1</p><p>BBW 3000 gm</p><p># Term male/female newborn, GA 38 weeks/U/S, Elective C/S due to previous C/S, Apgar 9-10-10, BBW 3000 gm, AGA</p><p># Thin meconium (ตอนคลอด suction 2 สาย)</p><p><br></p><p>Notify หายใจเร็ว 90-100 ครั้ง/min</p></td><td><ul><li>CXR portable stat</li><li>On cannula 1 LPM (FiO2 1.0, Effective FiO2 0.47), keep SpO2 >=95%</li><li>CBC c PBS, CRP stat and 06.00 น. 11/04/2569 at 20 hr</li><li>H/C x II</li></ul></td><td><ul><li>Ampicillin 300 mg IV q 8 hr (100 MKDose)</li><li>Gentamicin 12 mg + 5%DW 3 ml IV drip in 30 mins q 24 hr (4 MKDose)</li></ul></td></tr></tbody></table>
 
 **Progress Note**
 
@@ -160,4 +160,3 @@ Notify หายใจเร็ว 90-100 ครั้ง/min + <mark style="col
 **A:** RD suspected AF aspiration, EONS
 
 **P:** Tx as symptomatic infant -> septic w/u + empirical ATB + CXR P
-

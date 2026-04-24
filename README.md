@@ -55,6 +55,12 @@
   * [ ] Hyperglycemic emergency
     * [ ] DKA
     * [ ] HHS
+* [ ] Neurology
+  * [ ] Altered mental status
+  * [ ] Seizure and Abnormal movement
+  * [ ] Vertigo
+  * [ ] Weakness, paresthesia, and paralysis
+  * [ ] Headache
 
 ### Pediatrics
 
@@ -76,5 +82,26 @@
 
 ### Orthopedics / Trauma
 
-* [ ] Compartment Syndrome
-* [ ] Rhabdomyolysis
+* [x] Compartment Syndrome
+* [x] Rhabdomyolysis
+
+### Obstetrics
+
+* [x] PPROM, PROM
+* [x] Intrapartum fever
+* [x] Pregnancy-induced hypertension
+* [x] Preterm labour
+* [x] Abnormal cervical progression
+* [x] Cervical progression (Fully)
+* [x] Shoulder dystocia
+* [x] Eppisiotomy wound care
+* [x] Post-ND round
+* [x] Post-C/S round
+* [x] EFM Category and Interpretation
+* [ ] Breech presentation
+* [ ] Urinary Retention
+
+### Gynaecology
+
+* [x] Abnormal discharge
+* [x] Pelvic pain

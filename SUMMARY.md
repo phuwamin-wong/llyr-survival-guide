@@ -4,6 +4,11 @@
 * [Frequently used Antimicrobials](frequently-used-antimicrobials.md)
 * [Frequently used Drugs](common-drugs.md)
 
+## Orthopedics and Trauma
+
+* [Rhabdomyolysis](orthopedics-and-trauma/rhabdomyolysis.md)
+* [Compartment Syndrome](orthopedics-and-trauma/compartment-syndrome.md)
+
 ## Internal Medicine
 
 * [Cardiology](internal-medicine/cardiology/README.md)
@@ -41,3 +46,21 @@
 * [Neonatal Jaundice](pediatrics/neonatal-jaundice.md)
 * [Dyspnea in the Newborn](pediatrics/dyspnea-in-the-newborn.md)
 * [Cyanosis and Desaturation](pediatrics/cyanosis-and-desaturation.md)
+
+## Obstetrics and Gynecology
+
+***
+
+* [Intrapartum fever](intrapartum-fever.md)
+* [Preterm Premature Rupture of Membrane and Premature Rupture of Membrane (PPROM, PROM)](preterm-premature-rupture-of-membrane-and-premature-rupture-of-membrane-pprom-prom.md)
+* [Pregnancy-induced Hypertension](pregnancy-induced-hypertension.md)
+* [Preterm Labour](preterm-labour.md)
+* [Abnormal Cervical Progression](abnormal-cervical-progression.md)
+* [Cervical Progression (Fully)](cervical-progression-fully.md)
+* [Shoulder Dystocia](shoulder-dystocia.md)
+* [Episiotomy Wound Care](episiotomy-wound-care.md)
+* [Post-ND round](post-nd-round.md)
+* [Post C/S round](post-c-s-round.md)
+* [EFM category and interpretation](efm-category-and-interpretation.md)
+* [Pelvic Pain](pelvic-pain.md)
+* [Abnormal Discharge](abnormal-discharge.md)
