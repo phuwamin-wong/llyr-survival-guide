@@ -104,3 +104,15 @@ Adequate Bag-Mask ventilation → Outcome ไม่ด้อยกว่า Endo
 หลีกเลี่ยงการใช้ 50%DW ในเด็กเพื่อป้องกันเส้นเลือดอักเสบ (Vein sclerosis) ยกเว้นในวัยรุ่นตัวโตหรือกรณีฉุกเฉินที่ไม่มีทางเลือก
 {% endhint %}
 
+{% content-ref url="pediatrics-cardiac-arrest.md" %}
+[pediatrics-cardiac-arrest.md](pediatrics-cardiac-arrest.md)
+{% endcontent-ref %}
+
+{% content-ref url="pediatrics-bradycardia.md" %}
+[pediatrics-bradycardia.md](pediatrics-bradycardia.md)
+{% endcontent-ref %}
+
+{% content-ref url="pediatrics-tachycardia.md" %}
+[pediatrics-tachycardia.md](pediatrics-tachycardia.md)
+{% endcontent-ref %}
+

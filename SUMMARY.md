@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Med Llyr Survival Guide](README.md)
+* [Common Drugs](common-drugs.md)
 
 ## Internal Medicine
 
@@ -20,11 +21,13 @@
   * [Weaning, Deliberating from Ventilators and Extubation Evaluation](internal-medicine/respiratory-system/weaning-deliberating-from-ventilators-and-extubation-evaluation.md)
 * [Infectious Disease](internal-medicine/infectious-disease/README.md)
   * [Fever](internal-medicine/infectious-disease/fever.md)
+  * [Sepsis and Septic Shock](internal-medicine/infectious-disease/sepsis-and-septic-shock.md)
 * [Nephrology](internal-medicine/nephrology/README.md)
   * [Oliguria, Anuria, and Acute Kidney Injury](internal-medicine/nephrology/oliguria-anuria-and-acute-kidney-injury.md)
   * [Polyuria](internal-medicine/nephrology/polyuria.md)
   * [Hyponatremia](internal-medicine/nephrology/hyponatremia.md)
   * [Hypokalemia](internal-medicine/nephrology/hypokalemia.md)
+  * [Hyperkalemia](internal-medicine/nephrology/hyperkalemia.md)
 
 ## Pediatrics
 

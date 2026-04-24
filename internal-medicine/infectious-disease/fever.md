@@ -1,3 +1,7 @@
+---
+icon: face-thermometer
+---
+
 # Fever
 
 ## Definition
