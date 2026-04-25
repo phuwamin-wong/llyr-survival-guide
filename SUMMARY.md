@@ -1,6 +1,17 @@
 # Table of contents
 
 * [Med Llyr Survival Guide](README.md)
+
+## Frequently used Formulae
+
+* [Cardiology](frequently-used-formulae/cardiology.md)
+* [Endocrinology](frequently-used-formulae/endocrinology.md)
+* [Nephrology](frequently-used-formulae/nephrology.md)
+* [Respiratory System](frequently-used-formulae/respiratory-system.md)
+* [Gastrointestinal System](frequently-used-formulae/gastrointestinal-system.md)
+
+***
+
 * [Frequently used Antimicrobials](frequently-used-antimicrobials.md)
 * [Frequently used Drugs](common-drugs.md)
 
