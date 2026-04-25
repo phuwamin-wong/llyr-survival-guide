@@ -47,6 +47,11 @@
   * [Hyperkalemia](internal-medicine/nephrology/hyperkalemia.md)
 * [Gastrointestinal System](internal-medicine/gastrointestinal-system/README.md)
   * [Upper Gastrointestinal Hemorrhage](internal-medicine/gastrointestinal-system/upper-gastrointestinal-hemorrhage.md)
+  * [Lower Gastrointestinal Hemorrhage](internal-medicine/gastrointestinal-system/lower-gastrointestinal-hemorrhage.md)
+
+## Surgery
+
+* [Acute Abdominal Pain](surgery/acute-abdominal-pain.md)
 
 ## Pediatrics
 

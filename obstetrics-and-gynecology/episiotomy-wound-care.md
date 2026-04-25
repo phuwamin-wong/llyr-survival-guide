@@ -40,7 +40,7 @@ Notify ที่เป็นไปได้
 
 ## Episiotomy wound grading
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **First** - Perineal skin \
 **Second** - Injury to perineal muscle \

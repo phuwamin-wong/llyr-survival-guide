@@ -42,13 +42,14 @@
   * [ ] Notify Supratherapeutic INR
   * [ ] Acute Transfusion Reaction
   * [ ] Order for common blood products
-* [ ] GI
-  * [ ] LGIH
-  * [ ] UGIH
+* [x] GI
+  * [x] LGIH
+  * [x] UGIH
   * [ ] Constipation
-  * [ ] Acute abdominal pain
+  * [x] Acute abdominal pain
   * [ ] Nausea/Vomitting
   * [ ] Hiccups
+  * [ ] Feeding intolerance
 * [ ] Endocrinology
   * [ ] Hypoglycemia
   * [ ] Hyperglycemia

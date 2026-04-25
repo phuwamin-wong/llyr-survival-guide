@@ -66,10 +66,10 @@ description: ภูวมินทร์ วงค์เมาะ 630710102
 
 **Example Order for AUR**
 
-| Note                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Order for One Day                                    | Order for Continuation                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------- |
-| <p>20/3/2569  23.00 น.<br><br>Notify UOP ไม่ถึง keep<br>UOP = 50 cc/8 hr<br><strong>S:</strong> ตื่นดี ถามตอบรู้เรื่อง ปวดท้อง<br><strong>O:</strong> V/S stable, no fever<br>Abd: Palpated bladder 2 fingerbreadth below umbilicus<br><strong>U/S bedside:</strong> Bladder size 9x9x7 cm<br>Estimated bladder volume = (กว้างxยาวxสูง)/2<br>No Hydronephrosis both kidneys<br><strong>A:</strong> Acute urinary retention<br><strong>P:</strong> Single cath + UA</p> | <ul><li>Single catheter</li><li>Urinalysis</li></ul> |                                           |
-| <p>21/3/2569 06.00 น.<br>Notify NOP = 40 cc/8hr<br><strong>S:</strong> ตื่นดี<br><strong>O:</strong> V/S stable<br><strong>Abd:</strong> Palpated bladder at 4FB below umbilicus<br>U/S bedside: Full bladder<br><strong>A:</strong> AUR<br><strong>P:</strong> Retain Foley's catheter</p>                                                                                                                                                                             | <ul><li>Consult UroSx เรื่อง AUR</li></ul>           | <ul><li>Retain Foley's catheter</li></ul> |
+| Note                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Order for One Day                                    | Order for Continuation                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------- |
+| <p>20/3/2569 23.00 น.<br><br>Notify UOP ไม่ถึง keep<br>UOP = 50 cc/8 hr<br><strong>S:</strong> ตื่นดี ถามตอบรู้เรื่อง ปวดท้อง<br><strong>O:</strong> V/S stable, no fever<br>Abd: Palpated bladder 2 fingerbreadth below umbilicus<br><strong>U/S bedside:</strong> Bladder size 9x9x7 cm<br>Estimated bladder volume = (กว้างxยาวxสูง)/2<br>No Hydronephrosis both kidneys<br><strong>A:</strong> Acute urinary retention<br><strong>P:</strong> Single cath + UA</p> | <ul><li>Single catheter</li><li>Urinalysis</li></ul> |                                           |
+| <p>21/3/2569 06.00 น.<br>Notify NOP = 40 cc/8hr<br><strong>S:</strong> ตื่นดี<br><strong>O:</strong> V/S stable<br><strong>Abd:</strong> Palpated bladder at 4FB below umbilicus<br>U/S bedside: Full bladder<br><strong>A:</strong> AUR<br><strong>P:</strong> Retain Foley's catheter</p>                                                                                                                                                                            | <ul><li>Consult UroSx เรื่อง AUR</li></ul>           | <ul><li>Retain Foley's catheter</li></ul> |
 
 {% columns %}
 {% column width="50%" %}
@@ -83,7 +83,7 @@ Right Kidney
 {% endcolumn %}
 
 {% column width="50%" %}
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 U/S bladder (Saggital view)
 
@@ -111,7 +111,7 @@ Left Kidney
 
 เมื่อประเมิน Rule-out Post-renal obstruction แล้วพบว่าผู้ป่วยมีภาวะ Acute Kidney Injury (AKI) หรือมีค่า BUN/Cr rising ให้พิจารณาส่ง Lab เบื้องต้นดังต่อไปนี้เพื่อประเมินความรุนแรงและหาสาเหตุ:
 
-**1.  Electrolyte Evaluation (ประเมินความรุนแรงและ Complications)**
+**1. Electrolyte Evaluation (ประเมินความรุนแรงและ Complications)**
 
 * BUN, Creatinine: เพื่อดูระดับความรุนแรงและติดตามการทำงานของไต
 * Electrolytes: ผู้ป่วย AKI มักมีความเสี่ยงสูงในการเกิด Electrolyte imbalance โดยเฉพาะ Hyperkalemia และ Metabolic acidosis (ดูค่า $$HCO3−​$$)
@@ -124,7 +124,7 @@ Left Kidney
 **3. Work-up Cause of AKI (การคำนวณ FeNa / FeUrea)** เพื่อแยกภาวะ Pre-renal azotemia ออกจาก Acute Tubular Necrosis (ATN)
 
 {% hint style="info" %}
-&#x20;ข้อควรระวัง: ต้องเก็บปัสสาวะและเจาะเลือดในช่วงเวลาเดียวกัน (Concurrent) เพื่อนำมาเข้าสมการ
+ข้อควรระวัง: ต้องเก็บปัสสาวะและเจาะเลือดในช่วงเวลาเดียวกัน (Concurrent) เพื่อนำมาเข้าสมการ
 {% endhint %}
 
 {% hint style="info" %}
