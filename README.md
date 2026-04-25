@@ -98,8 +98,6 @@
 * [x] Post-ND round
 * [x] Post-C/S round
 * [x] EFM Category and Interpretation
-* [ ] Breech presentation
-* [ ] Urinary Retention
 
 ### Gynaecology
 

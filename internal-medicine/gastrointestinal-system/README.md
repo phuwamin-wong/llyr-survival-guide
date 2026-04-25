@@ -1,0 +1,6 @@
+---
+icon: stomach
+---
+
+# Gastrointestinal System
+

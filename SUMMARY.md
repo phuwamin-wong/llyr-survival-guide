@@ -45,6 +45,8 @@
   * [Hyponatremia](internal-medicine/nephrology/hyponatremia.md)
   * [Hypokalemia](internal-medicine/nephrology/hypokalemia.md)
   * [Hyperkalemia](internal-medicine/nephrology/hyperkalemia.md)
+* [Gastrointestinal System](internal-medicine/gastrointestinal-system/README.md)
+  * [Upper Gastrointestinal Hemorrhage](internal-medicine/gastrointestinal-system/upper-gastrointestinal-hemorrhage.md)
 
 ## Pediatrics
 
