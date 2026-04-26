@@ -37,11 +37,11 @@
   * [x] Hyponatremia
   * [x] Hypokalemia
   * [x] Hyperkalemia
-* [ ] Hematology
-  * [ ] Notify PT/PTT ratio
-  * [ ] Notify Supratherapeutic INR
-  * [ ] Acute Transfusion Reaction
-  * [ ] Order for common blood products
+* [x] Hematology
+  * [x] Notify PT/PTT ratio
+  * [x] Notify Supratherapeutic INR
+  * [x] Acute Transfusion Reaction
+  * [x] Order for common blood products
 * [x] GI
   * [x] LGIH
   * [x] UGIH

@@ -26,7 +26,7 @@ icon: dove
 RSBI มี Sensitivity สูง (97%) แต่ Specificity ต่ำ (64%) หมายความว่า "ถ้า RSBI > 105 มักจะ Wean ไม่ผ่านจริงๆ แต่ถ้า RSBI < 105 ก็ไม่ได้การันตีว่าจะผ่านเสมอไป (อาจจะเหนื่อยทีหลังได้)" จึงต้องดู Clinical อย่างอื่นประกอบด้วย
 {% endhint %}
 
-<img src="../../.gitbook/assets/unknown (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/unknown (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 ## How to Wean
 

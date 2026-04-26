@@ -81,7 +81,7 @@ Definition
 {% endcolumn %}
 
 {% column %}
-![](<../.gitbook/assets/unknown (1) (1).png>)
+![](<../.gitbook/assets/unknown (1) (1) (1).png>)
 {% endcolumn %}
 {% endcolumns %}
 

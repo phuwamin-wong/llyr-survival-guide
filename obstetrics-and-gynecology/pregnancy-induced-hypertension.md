@@ -139,4 +139,4 @@ description: ppetle ศุภณัฐ โรจนชัย (ปีเติ้
 * เฝ้าระวัง complications e.g. pulmonary edema, cerebral hemorrhage, HELLP&#x20;
 * Plan CT brain if focal deficits, atypical presentation, refractory seizures&#x20;
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
