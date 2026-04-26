@@ -14,7 +14,7 @@ icon: heart-circle-exclamation
 **Causes**
 
 * Myocardial infarction: โดยเฉพาะ Inferior wall MI (RCA territory) ทำให้เกิด AV node ischemia และกระตุ้น vagal tone (Bezold-Jarusch reflex)
-* DDrugs: Beta-blockers, Non-DHP CCB (Verapamil, Diltiazem), Digoxin, Amiodarone
+* Drugs: Beta-blockers, Non-DHP CCB (Verapamil, Diltiazem), Digoxin, Amiodarone
 * Hypoxia: พบได้บ่อยโดยเฉพาะในผู้ป่วยที่กำลังจะ arrest หรือ respiratory failure
 * Myxedema coma
 * Electrolyte imbalance: Hyperkalemia (ทำให้เกิด bradycardia, AV block, sine wave)

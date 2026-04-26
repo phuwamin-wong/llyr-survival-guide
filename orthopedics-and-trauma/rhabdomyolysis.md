@@ -94,9 +94,7 @@ But Interval CK values should be followed until a peak concentration is identifi
 
 ## Example Order
 
-| Order for One Day                                                                                                                                                                                                                                                           | Order for Continuation                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| <p></p><ul><li>0.9%NSS 1,000 mL IV load stat then 0.9%NSS 1,000 mL IV rate 400 ml/hr x 2hr</li><li>CPK next 12 hr.</li><li>BUN, Cr, Elyte, Ca, Mg, P, UA TMR</li><li>Uric acid TMR</li><li>Keep UOP > 200 ml/hr</li><li>Keep urine pH 7.5-8.0</li><li>Monitor EKG</li></ul> | <p></p><ul><li>NPO</li><li>Retained Foley's catheter (observe color, UA)</li></ul> |
+<table><thead><tr><th>Order for One Day</th><th valign="top">Order for Continuation</th></tr></thead><tbody><tr><td><ul><li>0.9%NSS 1,000 mL IV load stat then 0.9%NSS 1,000 mL IV rate 400 ml/hr x 2hr</li><li>CPK next 12 hr.</li><li>BUN, Cr, Elyte, Ca, Mg, P, UA TMR</li><li>Uric acid TMR</li><li>Keep UOP > 200 ml/hr</li><li>Keep urine pH 7.5-8.0</li><li>Monitor EKG</li></ul></td><td valign="top"><ul><li>NPO</li><li>Retained Foley's catheter (observe color, UA)</li></ul></td></tr></tbody></table>
 
 Reference
 

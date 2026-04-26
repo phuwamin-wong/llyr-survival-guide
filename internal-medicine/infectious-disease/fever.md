@@ -106,7 +106,7 @@ icon: face-thermometer
 * Stool for C-difficile toxin A, B, GDH (กรณีมีประวัติได้ Antibiotics มาแล้วมีปัญหา Diarrhea)
 * Stool Exam, Stool concentration for parasite, Stool Culture (กรณีสงสัย Gastroenteritis)
 * Hemoculture CRBSI protocol กรณีมี Central line
-* อื่น ๆ เช่นเจาะท้อง เจาะปอด เจาะหลัง เจาะเข่า  US DVT ต่าง ๆ ตามที่เห็นสมควร
+* อื่น ๆ เช่นเจาะท้อง เจาะปอด เจาะหลัง เจาะเข่า US DVT ต่าง ๆ ตามที่เห็นสมควร
 
 ## When to start antibiotics
 
@@ -119,5 +119,4 @@ icon: face-thermometer
 
 ## Example Order
 
-<table data-header-hidden="false" data-header-sticky><thead><tr><th>Progress Note</th><th>Order for One day</th><th>Order for Continuation</th></tr></thead><tbody><tr><td><p>20/4/69</p><p>23.00 น.<br>Notify ไข้ BT 38.3 </p><p>Case 53 yo male </p><p>#bed ridden from putaminal hemorrhagic stroke 5y s/p TT on NG/foley</p><p>#remote symptomatic seizure </p><p>#UGIH รอส่องกล้อง </p><p>#UD: HT, DLP </p><p><br></p><p>S: มีไข้ มีเสมหะจาก TT มากขึ้น  </p><p>O: V/S BT 38.3 PR 90 RR นับเอง 18 Osat 95% BP 140/80</p><p>HEENT: greenish sputum from TT </p><p>Lung: increased WOB, crepitation RLL</p><p>Back: bedsore gr.III at coccyx no necrotic tissue  </p><p>Ext: CRT &#x3C;2sec, no leg swelling  </p><p>Neuro: ตื่นรู้เรื่องทำตามสั่งพอเดิม </p><p>Foley: มีตะกอนพอเดิม</p><p>A: suspected aspiration pneumonia, NEWS = 2  </p><p>P: septic w/u + start augmentin</p></td><td><p>- on Collar mask 5-10 lpm keep SpO2 >94%</p><p></p><p>Lab septic w/u</p><p>- CBC, BUN, Cr, Elyte </p><p>- Sputum G/S, C/S </p><p>- CXR </p><p>- H/C xII </p><p>- UA, UC, UG หลัง exchange foley</p></td><td><p>- Augmentin 1.2 gm IV q12hr </p><p>- Para 500 mg po prn q6hr via NG </p><p>- ปรับนอนหัวสูง</p><p><br></p></td></tr></tbody></table>
-
+<table data-header-hidden="false" data-header-sticky><thead><tr><th>Progress Note</th><th valign="top">Order for One day</th><th valign="top">Order for Continuation</th></tr></thead><tbody><tr><td><p>20/4/69</p><p>23.00 น.<br>Notify ไข้ BT 38.3</p><p>Case 53 yo male</p><p>#bed ridden from putaminal hemorrhagic stroke 5y s/p TT on NG/foley</p><p>#remote symptomatic seizure</p><p>#UGIH รอส่องกล้อง</p><p>#UD: HT, DLP</p><p><br></p><p>S: มีไข้ มีเสมหะจาก TT มากขึ้น</p><p>O: V/S BT 38.3 PR 90 RR นับเอง 18 Osat 95% BP 140/80</p><p>HEENT: greenish sputum from TT</p><p>Lung: increased WOB, crepitation RLL</p><p>Back: bedsore gr.III at coccyx no necrotic tissue</p><p>Ext: CRT &#x3C;2sec, no leg swelling</p><p>Neuro: ตื่นรู้เรื่องทำตามสั่งพอเดิม</p><p>Foley: มีตะกอนพอเดิม</p><p>A: suspected aspiration pneumonia, NEWS = 2</p><p>P: septic w/u + start augmentin</p></td><td valign="top"><p>- on Collar mask 5-10 lpm keep SpO2 >94%</p><p>Lab septic w/u</p><p>- CBC, BUN, Cr, Elyte</p><p>- Sputum G/S, C/S</p><p>- CXR</p><p>- H/C xII</p><p>- UA, UC, UG หลัง exchange foley</p></td><td valign="top"><p>- Augmentin 1.2 gm IV q12hr</p><p>- Para 500 mg po prn q6hr via NG</p><p>- ปรับนอนหัวสูง</p><p><br></p></td></tr></tbody></table>

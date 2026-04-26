@@ -12,7 +12,7 @@
 4. Current Medications: \* ยาที่ทำให้เกิดภาวะ Pseudo-melena: Bismuth, Ferrous fumarate (ธาตุเหล็ก)
    * ยาที่เพิ่มความเสี่ยง Bleeding: ยาแก้ปวดกลุ่ม NSAIDs, ยาต้านเกล็ดเลือด (ASA, Clopidogrel), และยาต้านการแข็งตัวของเลือด (Enoxaparin, DOACs, Warfarin)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 อย่าลืมประเมิน Massive UGIH ที่อาจมา present ด้วย LGIH ได้!!
 {% endhint %}
 

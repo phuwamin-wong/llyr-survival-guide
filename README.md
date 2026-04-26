@@ -77,8 +77,8 @@
 
 ### Surgery
 
-* [ ] Pain control
-* [ ] Notify I/O post-op
+* [x] Pain control
+* [ ] Notify I/O post-op ⇒ [ใช้เนื้อหา Azotemia](internal-medicine/nephrology/oliguria-anuria-and-acute-kidney-injury.md)
 * [ ] แผลบวม แดง แยก ฉีก
 
 ### Orthopedics / Trauma

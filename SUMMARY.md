@@ -15,6 +15,13 @@
 * [Frequently used Antimicrobials](frequently-used-antimicrobials.md)
 * [Frequently used Drugs](common-drugs.md)
 
+## Standing order for Procedures
+
+* [Lumbar Puncture](standing-order-for-procedures/lumbar-puncture.md)
+* [Arthrocentesis](standing-order-for-procedures/arthrocentesis.md)
+* [Thoracocentesis](standing-order-for-procedures/thoracocentesis.md)
+* [Paracentesis (Ascites)](standing-order-for-procedures/paracentesis-ascites.md)
+
 ## Orthopedics and Trauma
 
 * [Rhabdomyolysis](orthopedics-and-trauma/rhabdomyolysis.md)
