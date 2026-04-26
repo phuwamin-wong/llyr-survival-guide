@@ -52,6 +52,7 @@
 ## Surgery
 
 * [Acute Abdominal Pain](surgery/acute-abdominal-pain.md)
+* [Post-operative Pain Control](surgery/post-operative-pain-control.md)
 
 ## Pediatrics
 

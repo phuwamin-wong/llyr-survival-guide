@@ -150,12 +150,15 @@ IDA in PED: Fe 4-6 MKDay for 6-8 wks until lab normal then continue 2-4 MKDay fo
 * cryptococcosis
 * Folic acid (Folivit) (5) 1x1 po pc
 * Furosemide (Lasix)
-  * start dose 20 x Cr mg IV (e.g. Cr 1; lasix 20 mg)
-  * switch from IV → oral: IV dose x 2 mg/d
-  * switch from oral → IV: dose per day x 2.5 mg/dose (ให้แบบ 2×1 > 1×2)
-  * if not respond → step up dose 2x, check albumin
-  * max 250 mg/dose, 1 gm/day, rate max 4 mg/min (slow injection) to prevent ototoxicity
-  * If Lasix high dose → add HCTZ 25-50 mg po OD or bid (sequential nephron blockage)
+
+{% hint style="info" %}
+- start dose 20 x Cr mg IV (e.g. Cr 1; lasix 20 mg)
+- switch from IV → oral: IV dose x 2 mg/d
+- switch from oral → IV: dose per day x 2.5 mg/dose (ให้แบบ 2×1 > 1×2)
+- if not respond → step up dose 2x, check albumin
+- max 250 mg/dose, 1 gm/day, rate max 4 mg/min (slow injection) to prevent ototoxicity
+- If Lasix high dose → add HCTZ 25-50 mg po OD or bid (sequential nephron blockage)
+{% endhint %}
 
 ### G
 

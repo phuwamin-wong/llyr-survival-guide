@@ -27,7 +27,7 @@ icon: heart-circle-exclamation
 * Ischemic chest discomfort
 * Acute heart failure (engorged neck vein)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 * หากเป็น second/third degree AV block มักจะไม่ได้ผล (Atropine เพิ่ม SA nodal activity หาก AV node ไม่ดี มันก็ไม่ลงอยู่ดี)
