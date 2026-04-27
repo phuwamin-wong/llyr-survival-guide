@@ -2,7 +2,7 @@
 
 กรณีที่ไข้ได้ heparin เราจะได้รับการ notify PTT ratio q 6 hr โดยทั่วไปจะ keep PTT ratio อยู่ระหว่าง 1.5 - 2.0 โดย PTT ratio สามารถหาได้ในผล Lab (จะ Report มาใต้ PTT)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Heparin Order
 

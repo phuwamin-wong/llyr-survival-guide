@@ -57,9 +57,11 @@
   * [Lower Gastrointestinal Hemorrhage](internal-medicine/gastrointestinal-system/lower-gastrointestinal-hemorrhage.md)
 * [Hematology](internal-medicine/hematology/README.md)
   * [Acute Transfusion Reaction](internal-medicine/hematology/acute-transfusion-reaction.md)
-  * [Supratherapeutic INR](internal-medicine/hematology/supratherapeutic-inr.md)
   * [Heparin / PTT ratio management](internal-medicine/hematology/heparin-ptt-ratio-management.md)
   * [Order for Common Blood Product](internal-medicine/hematology/order-for-common-blood-product.md)
+  * [Supratherapeutic INR](internal-medicine/hematology/supratherapeutic-inr.md)
+* [Endocrinology](internal-medicine/endocrinology/README.md)
+  * [Hyperglycemia in Admission](internal-medicine/endocrinology/hyperglycemia-in-admission.md)
 
 ## Surgery
 

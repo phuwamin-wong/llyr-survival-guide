@@ -50,9 +50,9 @@
   * [ ] Nausea/Vomitting
   * [ ] Hiccups
   * [ ] Feeding intolerance
-* [ ] Endocrinology
+* [x] Endocrinology
   * [ ] Hypoglycemia
-  * [ ] Hyperglycemia
+  * [x] Hyperglycemia
   * [ ] Hyperglycemic emergency
     * [ ] DKA
     * [ ] HHS
