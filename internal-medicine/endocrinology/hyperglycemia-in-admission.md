@@ -142,7 +142,7 @@ Scenario: นำเคสหญิง 70 kg ด้านบนมาเขีย
 
 ## Inpatient Insulin Titration Algorithm
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

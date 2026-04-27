@@ -62,6 +62,8 @@
   * [Supratherapeutic INR](internal-medicine/hematology/supratherapeutic-inr.md)
 * [Endocrinology](internal-medicine/endocrinology/README.md)
   * [Hyperglycemia in Admission](internal-medicine/endocrinology/hyperglycemia-in-admission.md)
+* [Neurology](internal-medicine/neurology/README.md)
+  * [Headache](internal-medicine/neurology/headache.md)
 
 ## Surgery
 

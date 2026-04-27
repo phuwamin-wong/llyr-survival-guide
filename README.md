@@ -61,7 +61,7 @@
   * [ ] Seizure and Abnormal movement
   * [ ] Vertigo
   * [ ] Weakness, paresthesia, and paralysis
-  * [ ] Headache
+  * [x] Headache
 
 ### Pediatrics
 
