@@ -1,4 +1,26 @@
+---
+description: เพชรน้ำหนึ่ง พรสัมฤทธิ์โชค (ปูน) 090
+---
+
 # Hyperglycemia in Admission
+
+## Definition
+
+* Inpatient setting > 140-180 mg%
+
+## What to ask back when being notified?
+
+* DM ?
+* DTX/CBG = ?
+* อาการของผู้ป่วย เนื่องจากเราต้อง ddx อยู่ 3 ภาวะ ได้แก่ simple hyperglycemia, DKA (อาการของ acidosis เช่น หายใจเร็ว หอบลึก ปวดท้อง), HHS (dehydrate อาการทาง Neuro เช่น ซึม abnormal movement N/V)
+
+## Patient Evaluation
+
+* V/S, dehydration
+* Clinical ของผู้ป่วยตามที่กล่าวไป conscious, pattern of respiration
+* แยกว่าเป็น simple หรือ others
+* กินล่าสุดเมื่อไหร่ บางทีคนไข้อาจจะเพิ่งแอบกินขนมน้ำตาลเลยพุ่ง
+* ถ้าว่างอาจจะรีวิวยา เช่น insulin, steroids เนื่องจากอาจมีผลให้เกิดเพิ่มยาฉีดบ้างมื้อ แต่โดยทั่วไปก็อาจจะเกิดจากคนไข้กินมื้อก่อนมากกว่าปกติได้
 
 ## Diagnosis
 
@@ -20,9 +42,11 @@
 | ----------------------------------------------------------------------------------------------- | ------------- |
 | Critically ill patient                                                                          | 140 - 180 mg% |
 | ICU patient (in extensive experienced center, cardiac surgery, and appropriate nursing support) | 110 - 140 mg% |
-| Non-critical care setting                                                                       | 100 - 180 mg% |
+| Non-critical care setting                                                                       | 100 - 140 mg% |
 
-## Management
+## Initial Management
+
+* ถ้ามี sliding scale ใน order cont อยู่แล้วให้ตาม scale ถ้าไม่มีก็คิดตามนี้
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -59,9 +83,9 @@
 65-year-old female\
 U/D: DM type 2 (poorly-controlled), last HbA1C 8.2%\
 มานอนโรงพยาบาลด้วย Community-acquired pneumonia\
-BW 70 kg, Height 166 cm.
+BW 70 kg, Height 166 cm. มี 4 วิธีที่สามารถทำได้
 
-**Based on prior home dose:**
+**1) Based on prior home dose:**
 
 ให้นำขนาดยา Insulin ที่ผู้ป่วยฉีดที่บ้านมารวมกันเพื่อหา TDD
 
@@ -70,11 +94,11 @@ BW 70 kg, Height 166 cm.
   * Rule of thumb: ให้เอา Home dose เดิม x 0.75 (ลดลง 25%) จะได้ TDD ที่ควรใช้ในโรงพยาบาล
   * _จากเคสตัวอย่าง:_ หากคนไข้ CAP คนนี้กินได้น้อย $$\rightarrow$$ 30 $$ $\times$ $$ 0.75 = 22.5 (ปัดเป็น 22 U/day)
 
-**Based on weight**
+**2) Based on weight**
 
 <table data-header-hidden="false" data-header-sticky><thead><tr><th width="199">TDD Multiplier</th><th>Clinical Condition (ข้อบ่งชี้)</th></tr></thead><tbody><tr><td>0.2 - 0.3 U/kg/day</td><td>Increased risk of hypoglycemia: ผู้ป่วยสูงอายุ (Age ≥ 70 ปี), GFR &#x3C; 25, หรือมีภาวะ Poor oral intake</td></tr><tr><td>0.4 U/kg/day</td><td>Standard patients: ผู้ป่วย T1DM และ T2DM ทั่วไปที่ทานอาหารได้ปกติ</td></tr><tr><td>0.5 U/kg/day</td><td>Insulin-resistance patient: มีภาวะดื้ออินซูลิน เช่น BMI ≥ 30 kg/m², มีประวัติใช้ยา Steroid, หรือมี Perioperative stress/Severe infection</td></tr></tbody></table>
 
-**Based on Insulin Infusion Rate**
+**3) Based on Insulin Infusion Rate**
 
 ใช้ในกรณีที่ผู้ป่วย Step down จาก ICU หรือเพิ่ง Off Insulin drip
 
@@ -82,7 +106,7 @@ BW 70 kg, Height 166 cm.
 * เงื่อนไขสำคัญ: ในช่วง 3-4 ชั่วโมงนั้น Rate การดริปต้องนิ่ง (มีการแกว่งไม่เกิน 0.5 U/hr)
 * ตัวอย่าง: ได้ Insulin IV คงที่ 2 U/hr มา 4 ชั่วโมงแล้ว $$\rightarrow$$ 2 x 24 = TDD 48 U/day
 
-**Based on correction scale insulin**
+**4) Based on correction scale insulin**
 
 ใช้เมื่อต้องการปรับ RI scale ที่ให้แบบ Prn มาเป็น Scheduled dose
 
@@ -101,6 +125,8 @@ Scenario: นำเคสหญิง 70 kg ด้านบนมาเขีย
 {% hint style="info" %}
 การให้ Insulin แบบเลียนแบบสรีรวิทยาธรรมชาติ (มีตัวพื้นฐาน 1 ตัว และตัวจัดการมื้ออาหารอีก 3 ตัว) เราเรียกว่า "Basal-Bolus Insulin Therapy" ซึ่งเป็น Standard of Care ในปัจจุบัน
 {% endhint %}
+
+**ตัวอย่าง Order กรณีผู้ป่วย Admit ใหม่ คิด TDD ตามน้ำหนัก**
 
 <table><thead><tr><th width="249" valign="top">Order for One Day</th><th>Order for Continuation</th></tr></thead><tbody><tr><td valign="top">- CBG at ward = 341 mg%<br>- RI 6 u sc</td><td>- Regular, DM diet<br>- Record V/S, I/O as mL<br>- CBG premeal tid with hs, keep 100-180 mg%<br><strong>Basal Insulin</strong><br>- NPH 14 u sc hs<br><strong>Bolus insulin</strong><br>- RI 5-5-4 sc ac<br><strong>Correction Insulin</strong><br>- on RI scale, if POCT-glucose<br>181 - 200 ให้ RI 2 u sc<br>201 - 250 ให้ RI 4 u sc<br>251 - 300 ให้ RI 6 u sc<br>301 - 350 ให้ RI 8 u sc<br>≥ 351 ให้ RI 10 u sc<br>notify if CBG &#x3C; 80 mg%, ≥ 351 mg%</td></tr></tbody></table>
 {% endstep %}
@@ -125,6 +151,10 @@ Scenario: นำเคสหญิง 70 kg ด้านบนมาเขีย
 * ถ้าน้ำตาลสูงก่อนมื้ออาหาร ⇒ เพิ่ม Bolus ในอาหารมื้อก่อนหน้า เช่นสูงมื้อเย็น เพิ่มมื้อกลางวัน
 {% endhint %}
 
+{% hint style="warning" %}
+กรณีเป็นมื้อก่อนนอน ให้ลด RI ลง 50% จาก Scale
+{% endhint %}
+
 ## Insulin in Enteral and Parenteral Feedings (EN/PN)
 
 * T1DM should continue basal insulin even if feedings are discontinued.
@@ -144,5 +174,7 @@ Scenario: นำเคสหญิง 70 kg ด้านบนมาเขีย
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+## ตัวอย่าง Order กรณี notify CBG โดยยังไม่มี Basal & RI scale
 
+<table><thead><tr><th>Note</th><th width="281" valign="top">Order for One Day</th><th>Order for continuation</th></tr></thead><tbody><tr><td>Notify CBG = 221 mg%<br>S: ตื่นดี ไม่เหนื่อย<br>O: V/S stable, RR 18<br>HEENT: no sunken eyeball<br>CVS: Regular no murmur<br>Abd: Soft, not tender<br>Ext: No pitting edema, no poor skin turgor<br>Imp: Simple hyperglycemia<br>Plan: RI</td><td valign="top"><p>- RI 4 u sc</p><p><strong>หากสงสัย DKA/HHS</strong><br>- Blood sugar, serum/urine ketone, VBG<br>- BUN, Creatinine, Electrolytes<br>- CBC, H/C x II, UA, UG, UC<br>- CXR, EKG 12 leads</p></td><td></td></tr></tbody></table>
 

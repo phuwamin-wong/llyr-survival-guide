@@ -34,12 +34,12 @@ layout:
   * Temperature care: radiant warmer, warm blanket, hat, transport incubator, polyethylene bag (for GA <32 wks)
   * PPV equipment: self inflating bag with reservoir bag 250 ml, oxygen resources, T--piece resuscitation, oxygen flow meter& oxygen blender (10 LPM), oxygen tube, face mask (พอดีหน้า ไม่ครอบโดนตาหรือเลยคาง)
   * Intubation equipment: Miller blade (Preterm No. 0. Term No. 1), uncuff ETT (as table), สายวัด (NTL+1 = depth ETT measure marked at middle upper gum\*\*)
-  * Medication: Epinephrine (1:10,000)&#x20;
+  * Medication: Epinephrine (1:10,000)
   * Vascular access: Umbilical catheter set
-  * Suction equipment: Bulb syring, meconium aspirator, suction cath, suction tube,&#x20;
+  * Suction equipment: Bulb syring, meconium aspirator, suction cath, suction tube,
   * Other: stethoscope, feeding tube, EKG monitoring, pulse oximetry (วัดมือขวา)
 
-<figure><img src="../.gitbook/assets/unknown.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Preparing The Equipment
 
@@ -48,7 +48,7 @@ layout:
 * Suction เปิด 80-100 mmHg
 * เตรียม uncuff ETT เบอร์พอดี + เล็กและใหญ่กว่า 1 อย่างละอัน
 
-<figure><img src="../.gitbook/assets/unknown (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 * Check self-inflating bag (ถ้าใช้)
 * Check T-piece (neo-puff)\*\* ใช้อันนี้มากกว่า
@@ -66,17 +66,17 @@ layout:
 **ดูทรง + ประเมิน 3 คำถามกับตัวเอง**
 
 * GA เท่าไร?, Tone กล้ามเนื้อดีไหม?, ร้องไห้หรือหายใจหรือไม่ ?
-  * If ดีหมด 3 ข้อ (Vigorous infant)  -> ย้ายเข้าอกมารดาได้
+  * If ดีหมด 3 ข้อ (Vigorous infant) -> ย้ายเข้าอกมารดาได้
   * If ไม่ผ่าน 1 ข้อ -> Resuscitation at radiant warmer
 
 **Cord Clamping Plan**
 
 * Term
   * Vigorous ดี -> delayed cord clamp 60 sec
-  * Non Vigorous term (GA 35 - 42 wks) ->  +- role of Intact cord milking
+  * Non Vigorous term (GA 35 - 42 wks) -> +- role of Intact cord milking
 * Preterm
   * Vigorous ดี -> delated cord clamp 60 sec
-  * Non vigorous&#x20;
+  * Non vigorous
     * GA 28 - 34+6 wks no evidence of cord milking -> immediately cord clamping
     * GA < 28 wks immediately cord clamping
 
@@ -92,7 +92,7 @@ layout:
 
 **Normal breathing ดี, HR > 100 bpm, no cyanosis -> โล่งครับ**
 
-* Post resuscitation care, stay with mother&#x20;
+* Post resuscitation care, stay with mother
 
 **HR > 100 bpm, หายใจเองได้ but!! น้องเขียว Cyanosis or หายใจลำบาก respiratory distress -> ตื่นเต้นครับ**
 
@@ -112,7 +112,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/unknown (3).jpeg" alt=""><figcaption></figcaption></figure>
 
-* Monitor SpO2&#x20;
+* Monitor SpO2
 * Call for help
 * Indicator for successful PPV: rising HR, improving color, spontaneous breathing, improving muscle tone
 * PPV ให้ครบ 15 sec จากนั้น evaluate ออกหัวก้อยได้ 3 กรณี
@@ -139,7 +139,7 @@ layout:
 
 * ถ้า chest move
   * ให้ PPV ต่อ 30 sec และประเมิน HR ครั้งที่ 2
-* ถ้า chest ไม่ move  ไป next steps คือ SO
+* ถ้า chest ไม่ move ไป next steps คือ SO
 * **S:** suction mouth and nose
 * **O:** open mouth
   * เปิดปากและยกขากรรไกรมาทางด้านหน้าเพื่อ open airway
@@ -198,14 +198,14 @@ layout:
 * Epinephrine (1:10,000)(0.1 mg/mL)
 * Volume expander administration
   * If shock or Hx acute blood loss
-    * 0.9 NSS or PRC gr.O Rh neg/ gr.O matched with mother blood  10 cc/kg IV/IO in 5-10 min
+    * 0.9 NSS or PRC gr.O Rh neg/ gr.O matched with mother blood 10 cc/kg IV/IO in 5-10 min
   * Emergency UVC (3.5 Fr in preterm, 5 Fr term)
 
 After evaluate if
 
 * HR <60 bpm
   * Reassessment, find cause, continue PPV, consider epinephrine, volume expansion
-* HR >= 60 bpm&#x20;
+* HR >= 60 bpm
   * Stop chest compression
   * Cont PPV rate 30-60 /min
   * Evaluate HR, breathing, SpO<sub>2</sub> q 30 sec + adjusted FiO<sub>2</sub> as target SpO<sub>2</sub>
@@ -217,4 +217,3 @@ Post resuscitation care
 * Transfer to NICU/ward
 * Give information to parent
 * Keep warm
-
