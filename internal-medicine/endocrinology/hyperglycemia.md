@@ -2,7 +2,7 @@
 description: เพชรน้ำหนึ่ง พรสัมฤทธิ์โชค (ปูน) 090
 ---
 
-# Hyperglycemia in Admission
+# Hyperglycemia
 
 ## Definition
 
@@ -56,7 +56,7 @@ description: เพชรน้ำหนึ่ง พรสัมฤทธิ์
 
 **Mild hyperglycemia (BS < 200 mg/dL, ใช้ยา DM ที่ไม่ใช่ Insulin น้อยกว่า 2 ตัว, ไม่เคยได้ Insulin มาก่อน)**
 
-* ใช้ [Correction scale](hyperglycemia-in-admission.md#insulin-correction-scale)
+* ใช้ [Correction scale](hyperglycemia.md#insulin-correction-scale)
 * หากมี Basal insulin และ Correction scale แล้ว ยัง CBG ≥ 180 mg/dL
   * Consider DDP4 inhibitors ⇒ สวนดอกสั่งใน IPD ไม่ได้
   * ให้ Low dose basal insulin: NPH หรือ Long-acting (Glargine — Toujeo, Detemir, Degludec) **0.1 - 0.2 u/kg/day**

@@ -51,11 +51,11 @@
   * [ ] Hiccups
   * [ ] Feeding intolerance
 * [x] Endocrinology
-  * [ ] Hypoglycemia
+  * [x] Hypoglycemia
   * [x] Hyperglycemia
-  * [ ] Hyperglycemic emergency
-    * [ ] DKA
-    * [ ] HHS
+  * [x] Hyperglycemic emergency
+    * [x] DKA
+    * [x] HHS
 * [ ] Neurology
   * [ ] Altered mental status
   * [ ] Seizure and Abnormal movement
