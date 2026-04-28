@@ -59,7 +59,7 @@
 * [ ] Neurology
   * [ ] Altered mental status
   * [ ] Seizure and Abnormal movement
-  * [ ] Vertigo
+  * [x] Vertigo
   * [ ] Weakness, paresthesia, and paralysis
   * [x] Headache
 
