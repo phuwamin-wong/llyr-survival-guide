@@ -10,7 +10,7 @@
 ในตำราบางเล่ม การมี new onset of headache at age ≥ 50-year-old ถือเป็น Red Flag sign
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 นอกจากประวัติ SNOOP4 แล้วอาจจำเป็นต้องซักประวัติเพิ่มเติมอื่น ๆ ที่อาจสำคัญกับการช่วย Differential diagnosis เช่น
 

@@ -64,6 +64,7 @@
   * [Hyperglycemia in Admission](internal-medicine/endocrinology/hyperglycemia-in-admission.md)
 * [Neurology](internal-medicine/neurology/README.md)
   * [Headache](internal-medicine/neurology/headache.md)
+  * [Vertigo](internal-medicine/neurology/vertigo.md)
 
 ## Surgery
 
