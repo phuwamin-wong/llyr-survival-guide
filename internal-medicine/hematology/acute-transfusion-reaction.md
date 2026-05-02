@@ -1,7 +1,7 @@
 ---
 description: >-
-  Adapted from CMU Care Map 2025 for Warfarin overdose-associated bleeding
-  (Version 17 Jul 2025)
+  ภูวมินทร์ วงค์เมาะ 630710102 :: Adapted from CMU Care Map 2025 for Warfarin
+  overdose-associated bleeding (Version 17 Jul 2025)
 ---
 
 # Acute Transfusion Reaction

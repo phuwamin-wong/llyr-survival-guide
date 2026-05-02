@@ -55,6 +55,7 @@
 * [Gastrointestinal System](internal-medicine/gastrointestinal-system/README.md)
   * [Upper Gastrointestinal Hemorrhage](internal-medicine/gastrointestinal-system/upper-gastrointestinal-hemorrhage.md)
   * [Lower Gastrointestinal Hemorrhage](internal-medicine/gastrointestinal-system/lower-gastrointestinal-hemorrhage.md)
+  * [Hiccup](internal-medicine/gastrointestinal-system/hiccup.md)
 * [Hematology](internal-medicine/hematology/README.md)
   * [Acute Transfusion Reaction](internal-medicine/hematology/acute-transfusion-reaction.md)
   * [Heparin / PTT ratio management](internal-medicine/hematology/heparin-ptt-ratio-management.md)

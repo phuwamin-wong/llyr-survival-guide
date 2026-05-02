@@ -48,7 +48,7 @@
   * [ ] Constipation
   * [x] Acute abdominal pain
   * [ ] Nausea/Vomitting
-  * [ ] Hiccups
+  * [x] Hiccups
   * [ ] Feeding intolerance
 * [x] Endocrinology
   * [x] Hypoglycemia

@@ -42,15 +42,23 @@ icon: tank-water
 * หาก Controlled ventilation → Collapsibility index
 * \*\*ทั้งนี้ ในบางรายที่หายใจเป็น support mode (PSV, Spont) ให้ดูว่าผู้ป่วย เมื่อหายใจเข้าแล้ว IVC เต่งหรือแฟ่บ หากเต่งขึ้น ให้ใช้ Distensibility index แต่หากแฟ่บลง ให้ใช้ Collapsibility index
 
+**ภาพตัวอย่าง Collapsed IVC**
+
+{% columns %}
+{% column width="50%" %}
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column width="50%" %}
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Collapsed IVC
+{% endcolumn %}
+{% endcolumns %}
+
+**ภาพตัวอย่าง Distended IVC**
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-Distended IVC
 
 ### Fluid challenge test
 
@@ -161,4 +169,3 @@ Distended IVC
     * Load isotonic crystalloid maximum 30 mL/kg
     * พิจารณา Inotropes (1st line → Norepinephrine)
     * Broad spectrum empirical antibiotics
-

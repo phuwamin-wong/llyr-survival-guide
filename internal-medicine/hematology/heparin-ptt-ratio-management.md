@@ -1,3 +1,7 @@
+---
+description: ภูวมินทร์ วงค์เมาะ 630710102
+---
+
 # Heparin / PTT ratio management
 
 กรณีที่ไข้ได้ heparin เราจะได้รับการ notify PTT ratio q 6 hr โดยทั่วไปจะ keep PTT ratio อยู่ระหว่าง 1.5 - 2.0 โดย PTT ratio สามารถหาได้ในผล Lab (จะ Report มาใต้ PTT)

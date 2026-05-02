@@ -1,3 +1,7 @@
+---
+description: ภูวมินทร์ วงค์เมาะ 630710102
+---
+
 # Polyuria
 
 ## Definition
@@ -100,4 +104,3 @@ $$
 {% hint style="info" %}
 นี่เป็นเหตุผลว่าทำไมให้มองหา Obvious osmotic diuresis ตั้งแต่แรก จะได้ไม่ต้องรอ Lab เพื่อหาคำตอบ
 {% endhint %}
-
