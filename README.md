@@ -47,7 +47,7 @@
   * [x] UGIH
   * [ ] Constipation
   * [x] Acute abdominal pain
-  * [ ] Nausea/Vomitting
+  * [x] Nausea/Vomitting
   * [x] Hiccups
   * [ ] Feeding intolerance
 * [x] Endocrinology
