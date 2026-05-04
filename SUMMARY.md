@@ -67,6 +67,7 @@
   * [Hyperglycemia](internal-medicine/endocrinology/hyperglycemia.md)
   * [Hyperglycemic Emergency](internal-medicine/endocrinology/hyperglycemic-emergency.md)
 * [Neurology](internal-medicine/neurology/README.md)
+  * [Altered Mental Status (Alteration of Consciousness)](internal-medicine/neurology/altered-mental-status-alteration-of-consciousness.md)
   * [Headache](internal-medicine/neurology/headache.md)
   * [Vertigo](internal-medicine/neurology/vertigo.md)
 

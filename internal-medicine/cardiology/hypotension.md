@@ -30,6 +30,8 @@ icon: tank-water
     * ฟัง lung ว่ามี crepitation หรือไม่ หรือมี decrease breath sound หรือไม่
     * ดู extremities ว่า warm หรือ cold
 
+<figure><img src="../../.gitbook/assets/Azotemia(3).jpg" alt=""><figcaption></figcaption></figure>
+
 ## Fluid Responsiveness Evaluation
 
 * เป็นการประเมินว่าผู้ป่วย เมื่อให้สารน้ำไปเพิ่มเติมแล้ว จะทำให้ BP เพิ่มได้อยู่หรือไม่

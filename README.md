@@ -57,7 +57,7 @@
     * [x] DKA
     * [x] HHS
 * [ ] Neurology
-  * [ ] Altered mental status
+  * [x] Altered mental status
   * [ ] Seizure and Abnormal movement
   * [x] Vertigo
   * [ ] Weakness, paresthesia, and paralysis
