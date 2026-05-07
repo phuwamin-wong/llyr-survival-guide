@@ -57,6 +57,8 @@
   * [Lower Gastrointestinal Hemorrhage](internal-medicine/gastrointestinal-system/lower-gastrointestinal-hemorrhage.md)
   * [Hiccup](internal-medicine/gastrointestinal-system/hiccup.md)
   * [Nausea and Vomiting](internal-medicine/gastrointestinal-system/nausea-and-vomiting.md)
+  * [Feeding Intolerance](internal-medicine/gastrointestinal-system/feeding-intolerance.md)
+  * [Constipation](internal-medicine/gastrointestinal-system/constipation.md)
 * [Hematology](internal-medicine/hematology/README.md)
   * [Acute Transfusion Reaction](internal-medicine/hematology/acute-transfusion-reaction.md)
   * [Heparin / PTT ratio management](internal-medicine/hematology/heparin-ptt-ratio-management.md)

@@ -49,7 +49,7 @@
   * [x] Acute abdominal pain
   * [x] Nausea/Vomitting
   * [x] Hiccups
-  * [ ] Feeding intolerance
+  * [x] Feeding intolerance
 * [x] Endocrinology
   * [x] Hypoglycemia
   * [x] Hyperglycemia
