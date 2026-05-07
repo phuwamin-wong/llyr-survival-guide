@@ -45,7 +45,7 @@
 * [x] GI
   * [x] LGIH
   * [x] UGIH
-  * [ ] Constipation
+  * [x] Constipation
   * [x] Acute abdominal pain
   * [x] Nausea/Vomitting
   * [x] Hiccups
