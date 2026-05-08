@@ -1,2 +1,0 @@
-# Seizure and Abnormal movement
-
